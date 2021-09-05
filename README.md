@@ -53,3 +53,10 @@
     border-color: #FF5A44;
 }
 ```
+
+>渐变
+```css
+#xxx {
+    background-image: linear-gradient(111deg, #155799, #fff);
+}
+```
